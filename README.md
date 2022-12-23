@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋 I'm Anisha
 
-<!--
-**anisharvijan/anisharvijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ About Me ✨
 
-Here are some ideas to get you started:
+👀 I’m addicted to Data Analysis and I love learning new skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 I'm pursuing my Master's in Electrical and Computer Engineering and transitioned into Data Analytics in 2022
+
+🌱 I self-taught SQL and Tableau
+
+📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
+
+📫 How to find me: https://www.linkedin.com/in/anisha-raja-vijan-385121168/
+
+ 
+
+💡Skills💡:
+
+Microsoft SQL Server
+Tableau
+Microsoft Excel
+Google Sheets
+Python
+ 
+
+
