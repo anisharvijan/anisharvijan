@@ -15,7 +15,7 @@
 
 💬  How to reach me: **anisharvijan25@gmail.com**
 
-💻 All of my projects are available at https://anisharvijan.github.io/anisha.github.io/ 
+💻 All of my projects are available at https://anisharvijan.github.io/ARV/
  
 
 💡Skills💡:
