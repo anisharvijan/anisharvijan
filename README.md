@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anisha</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Analyst | Data Visualizer</h3>
 
 ✨ About Me ✨
 
