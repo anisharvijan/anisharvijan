@@ -33,7 +33,6 @@ Started as a data analyst in 2022, now I'm automating the entire data-to-insight
 💬 **Let's connect:** Always down to chat about AI workflows, data automation, or that perfect dashboard design  
 📧 **Reach me:** anisharvijan25@gmail.com  
 💼 **LinkedIn:** [Let's network!](https://www.linkedin.com/in/anisha-raja-vijan/)  
-🌐 **Portfolio:** [Check out my work](https://anisharvijan.github.io/ARV/)
 
 ---
 
