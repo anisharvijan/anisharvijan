@@ -32,8 +32,7 @@ Started as a data analyst in 2022, now I'm automating the entire data-to-insight
 
 💬 **Let's connect:** Always down to chat about AI workflows, data automation, or that perfect dashboard design  
 📧 **Reach me:** anisharvijan25@gmail.com  
-💼 **LinkedIn:** [Let's network!](https://www.linkedin.com/in/anisha-raja-vijan/)  
-🌐 **Portfolio:** [Check out my work](https://anisharvijan.github.io/ARV/)
+💼 **LinkedIn:** [Let's network!](https://www.linkedin.com/in/anisha-raja-vijan/) 
 
 ---
 
@@ -69,7 +68,7 @@ Started as a data analyst in 2022, now I'm automating the entire data-to-insight
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anisharvijan&show_icons=true&locale=en&theme=tokyonight" alt="anisharvijan" /></p>
+
 
 ---
 
