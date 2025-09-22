@@ -32,7 +32,8 @@ Started as a data analyst in 2022, now I'm automating the entire data-to-insight
 
 💬 **Let's connect:** Always down to chat about AI workflows, data automation, or that perfect dashboard design  
 📧 **Reach me:** anisharvijan25@gmail.com  
-💼 **LinkedIn:** [Let's network!](https://www.linkedin.com/in/anisha-raja-vijan/) 
+💼 **LinkedIn:** [Let's network!](https://www.linkedin.com/in/anisha-raja-vijan/)  
+🌐 **Portfolio:** [Check out my work](https://anisharvijan.github.io/ARV/)
 
 ---
 
@@ -42,30 +43,15 @@ Started as a data analyst in 2022, now I'm automating the entire data-to-insight
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-**AI & Automation:**
 <p align="left">
-<a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" width="40" height="40"/> </a>
-<a href="https://make.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/make-1.svg" alt="make" width="40" height="40"/> </a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="chatgpt" width="40" height="40"/> </a>
-<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/power-automate.svg" alt="power-automate" width="40" height="40"/> </a>
-</p>
-
-**Data & Analytics:**
-<p align="left">
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
-<a href="https://www.thoughtspot.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/thoughtspot.svg" alt="thoughtspot" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
-
-**Cloud & Infrastructure:**
-<p align="left">
-<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/snowflake-3.svg" alt="snowflake" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sql-server" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" alt="tableau" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake.svg" alt="snowflake" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
 </p>
 
 
